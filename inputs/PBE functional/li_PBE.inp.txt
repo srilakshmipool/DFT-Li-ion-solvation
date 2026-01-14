@@ -1,0 +1,9 @@
+! PBE D3BJ def2-SVP TightSCF SP
+
+%basis
+  NewGTO Li "def2-TZVP" end
+end
+
+* xyz 1 1
+Li  0.000  0.000  0.000
+*
