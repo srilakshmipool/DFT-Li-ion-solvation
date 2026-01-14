@@ -5,5 +5,5 @@ Input files with B3LYP functionals for optimisation and single point energies of
 - 'li_ec2.inp' - Li(EC)₂ input file
 
 Input files for vibrational frequency calculations:
-- 'li_ec_1_freq.inp' - Li⁺-EC
-- 'li_dmc_1_freq.inp' - Li⁺-DMC
+- 'li_ec_1_freq.inp.txt' - Li⁺-EC
+- 'li_dmc_1_freq.inp.txt' - Li⁺-DMC
