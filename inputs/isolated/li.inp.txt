@@ -1,0 +1,5 @@
+! B3LYP D3BJ def2-TZVP TightSCF SP
+
+* xyz 1 1
+Li  0.000  0.000  0.000
+*
